@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://1001znnznsmdmkswfsiri-secondary.z13.web.core.windows.net/",
+      "permanent": true
+    }
+  ]
+}
